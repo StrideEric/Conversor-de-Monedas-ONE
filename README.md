@@ -1,13 +1,13 @@
 <h1 align="center"> Conversor de Monedas </h1>
 
-<p aling="center">
-  ![Imagen de Portada del proyecto "conversor de monedas"](https://github.com/StrideEric/Conversor-de-Monedas-ONE/assets/54481350/37fd5327-7f11-4649-a426-25c84969ec0c)
+
+<p align="center">
+  <img src= "https://github.com/StrideEric/Conversor-de-Monedas-ONE/assets/54481350/37fd5327-7f11-4649-a426-25c84969ec0c" />
 </p>
-
-
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+<p align="left">
+ <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+ <img src="https://img.shields.io/github/stars/camilafernanda?style=social">
+</p>
 
 
 El proyecto se realizo para el curso de Oracle + Alura que es conocido como "Oracle ONE".
@@ -22,11 +22,12 @@ Es el primer proyecto de otros que se realizaran en ONE.
 
 ** Instrucciones de uso **
 
-Tecnologías utilizadas
-• Java 17
+\## Tecnologías utilizadas
+
+Java 17
 
 
 ## Autores
-<div>
-[<img src="https://avatars.githubusercontent.com/u/54481350?v=4" width=115><br><sub>Eric L. Stride</sub>](https://github.com/StrideEric)
-</div>
+
+| [<img src="https://avatars.githubusercontent.com/u/54481350?v=4" width=115><br><sub>Eric L. Stride</sub>](https://github.com/StrideEric) |
+| :---: |
