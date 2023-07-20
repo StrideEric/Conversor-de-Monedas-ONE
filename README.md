@@ -1,6 +1,9 @@
 <h1 align="center"> Conversor de Monedas </h1>
 
-![Imagen de Portada del proyecto "conversor de monedas"](https://github.com/StrideEric/Conversor-de-Monedas-ONE/assets/54481350/37fd5327-7f11-4649-a426-25c84969ec0c)
+<p aling="center">
+  ![Imagen de Portada del proyecto "conversor de monedas"](https://github.com/StrideEric/Conversor-de-Monedas-ONE/assets/54481350/37fd5327-7f11-4649-a426-25c84969ec0c)
+</p>
+
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
@@ -24,6 +27,6 @@ Tecnologías utilizadas
 
 
 ## Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/54481350?v=4" width=115><br><sub>Eric L. Stride</sub>](https://github.com/StrideEric)
-| |:---: | :---: | :---: |
+<div>
+[<img src="https://avatars.githubusercontent.com/u/54481350?v=4" width=115><br><sub>Eric L. Stride</sub>](https://github.com/StrideEric)
+</div>
